@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HelloSpringModulesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="cf.cplace.helloSpringModules.main.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="cf.cplace.hellospringmodules.HelloSpringModulesApplication" />
+    <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/javax.sql=ALL-UNNAMED --add-modules java.sql" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
